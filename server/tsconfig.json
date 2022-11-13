@@ -1,0 +1,8 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+        "moduleResolution": "node"
+    },
+    "include": ["./services", "./support"],
+    "exclude": ["./node_modules"],
+}
