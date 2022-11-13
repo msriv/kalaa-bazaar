@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "noImplicitAny": true,
     "skipLibCheck": true,
-    "jsx": "preserve",
+    "jsx": "preserve"
   },
   "exclude": ["./build", "./node_modules", "./client/node_modules"]
 }
